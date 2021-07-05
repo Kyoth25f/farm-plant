@@ -1,0 +1,242 @@
+{
+    "plants": [
+        {
+            "name": "Carrot Plant",
+            "seed": "Oblong Seeds",
+            "product": "Carrot",
+            "seasons": {
+                "autumn": true,
+                "winter": true,
+                "spring": true,
+                "summer": false
+            },
+            "nutrient": {
+                "grownt_formula": -4,
+                "compost": 2,
+                "manure": 2
+            },
+            "drink_rate": 0.75
+        },
+        {
+            "name": "Corn Stalk",
+            "seed": "Clustered Seeds",
+            "product": "Corn",
+            "seasons": {
+                "autumn": true,
+                "winter": false,
+                "spring": true,
+                "summer": true
+            },
+            "nutrient": {
+                "grownt_formula": 2,
+                "compost": -4,
+                "manure": 2
+            },
+            "drink_rate": 0.75
+        },
+        {
+            "name": "Potato Plant",
+            "seed": "Fluffy Seeds",
+            "product": "Potato",
+            "seasons": {
+                "autumn": true,
+                "winter": true,
+                "spring": true,
+                "summer": false
+            },
+            "nutrient": {
+                "grownt_formula": 2,
+                "compost": 2,
+                "manure": -4
+            },
+            "drink_rate": 0.75
+        },
+        {
+            "name": "Toma Root Plant",
+            "seed": "Spiky Seeds",
+            "product": "Toma Root",
+            "seasons": {
+                "autumn": true,
+                "winter": false,
+                "spring": true,
+                "summer": true
+            },
+            "nutrient": {
+                "grownt_formula": -2,
+                "compost": -2,
+                "manure": 4
+            },
+            "drink_rate": 3.5
+        },
+        {
+            "name": "Asparagus Fern",
+            "seed": "Tubular Seeds",
+            "product": "Asparagus",
+            "seasons": {
+                "autumn": false,
+                "winter": true,
+                "spring": true,
+                "summer": false
+            },
+            "nutrient": {
+                "grownt_formula": 2,
+                "compost": -4,
+                "manure": 2
+            },
+            "drink_rate": 0.75
+        },
+        {
+            "name": "Eggplant Stalk",
+            "seed": "Swirly Seeds",
+            "product": "Eggplant",
+            "seasons": {
+                "autumn": true,
+                "winter": false,
+                "spring": true,
+                "summer": false
+            },
+            "nutrient": {
+                "grownt_formula": 2,
+                "compost": 2,
+                "manure": -4
+            },
+            "drink_rate": 2
+        },
+        {
+            "name": "Pumpkin Plant",
+            "seed": "Sharp Seed",
+            "product": "Pumpkin",
+            "seasons": {
+                "autumn": true,
+                "winter": true,
+                "spring": false,
+                "summer": false
+            },
+            "nutrient": {
+                "grownt_formula": -4,
+                "compost": 2,
+                "manure": 2
+            },
+            "drink_rate": 2
+        },
+        {
+            "name": "Watermelon Plant",
+            "seed": "Square Seeds",
+            "product": "Watermelon",
+            "seasons": {
+                "autumn": false,
+                "winter": false,
+                "spring": true,
+                "summer": true
+            },
+            "nutrient": {
+                "grownt_formula": 4,
+                "compost": -2,
+                "manure": -2
+            },
+            "drink_rate": 3.5
+        },
+        {
+            "name": "Dragon Fruit Vine",
+            "seed": "Bulbous Seeds",
+            "product": "Dragon Fruit",
+            "seasons": {
+                "autumn": false,
+                "winter": false,
+                "spring": true,
+                "summer": true
+            },
+            "nutrient": {
+                "grownt_formula": 4,
+                "compost": 4,
+                "manure": -8
+            },
+            "drink_rate": 2
+        },
+        {
+            "name": "Durian Vine",
+            "seed": "Brittle Seed Pods",
+            "product": "Durian",
+            "seasons": {
+                "autumn": false,
+                "winter": false,
+                "spring": true,
+                "summer": false
+            },
+            "nutrient": {
+                "grownt_formula": 4,
+                "compost": -8,
+                "manure": 4
+            },
+            "drink_rate": 0.75
+        },
+        {
+            "name": "Garlic Plant",
+            "seed": "Seed Pods",
+            "product": "Garlic",
+            "seasons": {
+                "autumn": true,
+                "winter": true,
+                "spring": true,
+                "summer": true
+            },
+            "nutrient": {
+                "grownt_formula": 4,
+                "compost": -8,
+                "manure": 4
+            },
+            "drink_rate": 0.75
+        },
+        {
+            "name": "Onion Plant",
+            "seed": "Pointy Seeds",
+            "product": "Onion",
+            "seasons": {
+                "autumn": true,
+                "winter": false,
+                "spring": true,
+                "summer": true
+            },
+            "nutrient": {
+                "grownt_formula": -8,
+                "compost": 4,
+                "manure": 4
+            },
+            "drink_rate": 2
+        },
+        {
+            "name": "Pepper Plant",
+            "seed": "Lumpy Seeds",
+            "product": "Pepper",
+            "seasons": {
+                "autumn": true,
+                "winter": false,
+                "spring": false,
+                "summer": true
+            },
+            "nutrient": {
+                "grownt_formula": 4,
+                "compost": 4,
+                "manure": -8
+            },
+            "drink_rate": 0.75
+        },
+        {
+            "name": "Pomegranate Plant",
+            "seed": "Windblown Seeds",
+            "product": "Pomegranate",
+            "seasons": {
+                "autumn": false,
+                "winter": false,
+                "spring": true,
+                "summer": true
+            },
+            "nutrient": {
+                "grownt_formula": -8,
+                "compost": 4,
+                "manure": 4
+            },
+            "drink_rate": 2
+        }
+    ]
+}
